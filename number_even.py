@@ -18,9 +18,9 @@ var_int = 7896
 
 
 
-x1 = (var_int+1)%10
-x2 = (var_int+1)%100//10
-x3 = (var_int+1)//100%10
-x4 = (var_int+1)//1000
+x1 = var_int%10
+x2 = var_int%100//10
+x3 = var_int//100%10
+x4 = var_int//1000
 
 print(x4%2+x3%2+x2%2+x1%2)
