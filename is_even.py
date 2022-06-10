@@ -1,4 +1,5 @@
 #Create a variable "number" and assign it a integer value.
-x = 13
+number = 52
 #Print 1 if the number is even, otherwise print 0.
-print((x+1)%2)
+
+print((number+1)%2)
