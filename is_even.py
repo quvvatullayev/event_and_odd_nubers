@@ -1,5 +1,14 @@
 #Create a variable "number" and assign it a integer value.
-number = 53
+
+
+number = 52
+
+
 #Print 1 if the number is even, otherwise print 0.
+
+
+
+
+
 
 print((number+1)%2)
