@@ -34,4 +34,3 @@ x4 = var_int//1000
 
 sum_even = (x1+1)%2 + (x2+1)%2 + (x3+1)%2 + (x4+1)%2
 
-print(sum_even)
