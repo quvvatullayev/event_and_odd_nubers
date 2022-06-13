@@ -28,4 +28,3 @@ x4 = var_int//1000
 
 sum_even = x1%2 + x2%2 + x3%2 + x4%2
 
-print(sum_even)
